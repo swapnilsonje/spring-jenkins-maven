@@ -16,10 +16,10 @@ class SpringJenkinsMavenApplicationTests {
 	void contextLoads() {
 	}
 
-  @Test
-  public void testHelloWorld() {
-    String result = helloWorldController.getHelloWorld();
-    assertEquals("Hello World!", result);
-  }
+  //@Test
+  //public void testHelloWorld() {
+  //  String result = helloWorldController.getHelloWorld();
+  //  assertEquals("Hello World!", result);
+ // }
 
 }
